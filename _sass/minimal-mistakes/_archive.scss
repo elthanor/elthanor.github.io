@@ -5,6 +5,8 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 0.85em;
 
   @include breakpoint($large) {
     float: right;
@@ -35,6 +37,7 @@
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
+  font-family: 'Source Sans Pro', sans-serif;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
 
@@ -409,12 +412,12 @@
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        width: span(11 of 12);
       }
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(7 of 12);
+        width: span(11 of 12);
       }
     }
   }
