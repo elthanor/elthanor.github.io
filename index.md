@@ -26,4 +26,4 @@ _γνῶσις δύναμίς ἐστιν_ - knowledge is power
 
 If you would like to contact me, please send me an [email](mailto:e.kousou@pm.me).
 
-My [PGP key](/assets/other/pubkey.txt){:target="_blank" rel="noopener"} has the ID: F1D50DAF75360850366F52FD5DE10C0EA557E388.
+My [PGP key](/assets/other/pubkey.txt){:target="_blank" rel="noopener"} has the ID: 5DE10C0EA557E388
