@@ -18,6 +18,10 @@ Committed in learning, I always try to innovate and expand my knowledge in the f
 * Distributed Systems
 * Privacy Protection
 
+
+#### Favorite Quote
+_γνῶσις δύναμίς ἐστιν_ - knowledge is power
+
 ## Contact
 
 If you would like to contact me, please send me an [email](mailto:e.kousou@pm.me).
