@@ -20,7 +20,7 @@ Committed in learning, I always try to innovate and expand my knowledge in the f
 
 
 #### Favorite Quote
-_γνῶσις δύναμίς ἐστιν_ - knowledge is power
+_γνῶσις δύναμις ἐστιν_ - knowledge is power
 
 ## Contact
 
