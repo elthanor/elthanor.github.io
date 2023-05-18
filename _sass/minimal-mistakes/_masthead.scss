@@ -91,3 +91,19 @@
     font-weight: 700;
   }
 }
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}
+
+.masthead__menu-item a::after {
+  content: "";
+  width: 5px;
+  height: 15px;
+  display: inline-block;
+  background: #000000;
+  display: inline-block;
+  animation: cursor-blink 4.5s steps(2) infinite;
+}
