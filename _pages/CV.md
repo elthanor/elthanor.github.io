@@ -11,6 +11,7 @@ You can find my CV in pdf format [here](/assets/other/KousourakisEleftheriosCV.p
 
 ### Certifications & Trainings
 
+- Certified ScrumMaster® ScrumAlliance, [Certification](/assets/other/Eleftherios Kousourakis-ScrumAlliance_CSM_Certificate.pdf), [Badge](https://bcert.me/syxpxureg)
 - Running Containers on Amazon Elastic Kubernetes Service, [Certification](/assets/other/AMAZON_WEB_SERVICES_RCAEKS_1046901.pdf)
 - AWS Cloud Practicioner Essentials Day, [Certification](/assets/other/AWS-Cloud-Practicioner-certificate.pdf)
 - Software security training modules provided by Rangeforce, [Certification](/assets/other/Eleftherios Kousourakis CPE Certificate.pdf)

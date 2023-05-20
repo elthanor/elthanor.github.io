@@ -16,6 +16,7 @@ Committed in learning, I always try to innovate and expand my knowledge in the f
 * Virtualization Technologies and Cloud Computing
 * Infrastructure As Code
 * Distributed Systems
+* Agile Principles (Scrum, Kanban)
 * Privacy Protection
 
 
