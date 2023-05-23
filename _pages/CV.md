@@ -1,13 +1,14 @@
 ---
+layout: home
 title: "CV & Certifications"
 excerpt: "asf canvas."
 sitemap: true
 permalink: /cv/
 classes: wide
-
 ---
 
-You can find my CV in pdf format [here](/assets/other/KousourakisEleftheriosCV.pdf){:target="_blank" rel="noopener"}. Feel free to ping me in order to get the latest version using one of the methods to reach me which you can find in the left side bar.
+You can find my CV in pdf format [here](/assets/other/KousourakisEleftheriosCV.pdf){:target="_blank" rel="noopener"}. 
+<br>Feel free to reach out to me to get latest version.
 
 ### Certifications & Trainings
 
